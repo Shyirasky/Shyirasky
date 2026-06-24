@@ -37,7 +37,9 @@ UHI Moray
 Links
 
 📧 Email: [isaacnaylor1996@gmail.com](mailto:isaacnaylor1996@gmail.com)
+
 💼 LinkedIn: linkedin.com/in/isaac-naylor-68603930a
+
 🎮 Itch.io: https://shyirasky.itch.io
 
 
