@@ -2,7 +2,7 @@
 
 -🎓 Game Design student at Robert Gordon University with a background in Computer Science from UHI Moray.
 
-- About Me
+About Me
 
 After completing my HND in Computer Science, I decided to pursue a career in an industry I have always been passionate about: game development. I am currently studying Game Design at Robert Gordon University, having entered directly into second year, and am now progressing into my third year.
 
@@ -12,16 +12,21 @@ My studies have also provided experience in quality assurance methodologies, inc
 
 Alongside my studies, I continue to develop personal Unity projects, explore gameplay design concepts, and expand my technical knowledge through practical development work.
 
-- Areas of Interest
+Areas of Interest
 
 🎮 Technical QA
+
 🎮 Gameplay Systems Design
+
 🎮 Game Design
+
 🎮 Unity Development
+
 🎮 C# Programming
+
 🎮 Rapid Prototyping
 
-- Education
+Education
   
 BSc Game Design
 Robert Gordon University (Expected 2027)
@@ -29,7 +34,7 @@ Robert Gordon University (Expected 2027)
 HND Computer Science (Grade A)
 UHI Moray
 
-- Links
+Links
 
 📧 Email: [isaacnaylor1996@gmail.com](mailto:isaacnaylor1996@gmail.com)
 💼 LinkedIn: linkedin.com/in/isaac-naylor-68603930a
